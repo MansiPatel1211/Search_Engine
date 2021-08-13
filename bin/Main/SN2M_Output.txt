@@ -1,0 +1,41 @@
+----------------------------------------------------------------------
+____________________ACC PROJECT : SEARCH ENGINE- SN^2M_____________
+__________________________Team Members_____________________________
+		 1.Saniya  Sayed
+		 2.Mansi Patel
+		 3.Nisha Jasoliya
+		 4.Naisargi Joshipura
+
+_______________________ UNDER THE GUIDANCE OF ______________________
+			 Dr. Ikjot Saini
+----------------------------------------------------------------------
+		^^WORD SEARCH^^
+googl
+Sorry, the word ** googl ** is not present in any of the files :(
+**Do you mean :  google ?
+		^^WORD SEARCH^^
+google
+_____________________________________________________________
+		 | Page Rank ||Search |
+_____________________________________________________________
+
+		 | 3 ||https://www.w3.org/TR/2021/REC-webrtc-20210126/ 
+		 | 1 ||http://youtu.be/VFnzPAd6UqI 
+		 | 1 ||https://www.w3.org/Consortium/Member/List 
+		 | 1 ||https://www.w3.org/TR/2021/CR-webrtc-priority-20210318/ 
+		 | 0 ||https://www.w3.org/TR/2021/CR-did-core-20210318/ 
+		 | 0 ||https://www.w3.org/2019/did-wg/ 
+		 | 0 ||https://www.w3.org/blog/2021/03/group-calendaring-service-enters-beta-test/ 
+		 | 0 ||https://www.w3.org/auto/ 
+		 | 0 ||https://www.w3.org/Consortium/membership#w3c_content_body 
+		 | 0 ||https://www.w3.org/blog/news/archives/8986 
+_______________________________________________
+Want to search more?
+ -->Press 0 to search more 
+ -->Press 1 to exit
+ll
+Oops! A wrong input was provided.
+ -->Press 0 to search more 
+ -->Press 1 to exit 
+1
+Thank you :) Have a Great Day!
